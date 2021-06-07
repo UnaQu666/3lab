@@ -1,4 +1,4 @@
-#include "test_tictac.h"
+#include "test_game1.h"
 
 #include <gtest/gtest.h>
 
