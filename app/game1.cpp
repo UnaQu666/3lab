@@ -18,7 +18,7 @@ int main()
 	if (winner == DRAW) 
 		std::cout << "The game was a draw!\n";
 	else 
-		std::cout << "Congratulations Player " << winner << "!\nYou win!\n";	// Winner winner, chicken dinner
+		std::cout << "Congratulations Player " << winner << "!\nYou win!\n";	
 
 	// Used to hold program open after loop. May not be necessary on your system.
 	std::cin.ignore();
