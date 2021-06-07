@@ -7,7 +7,7 @@ before_install:
 
 addons:
   sonarcloud:
-    organization: "danilust"
+    organization: "unaqu666"
     token: $SONAR_TOKEN
 script:
   - qmake
