@@ -1,5 +1,5 @@
 #include <iostream>
-#include "tictac.h"
+#include "game1.h"
 
 int main()
 {
