@@ -2,7 +2,7 @@
 #include <gmock/gmock-matchers.h>
 #include <iostream>
 #include <cstdlib>
-#include "tictac.h"
+#include "game1.h"
 
 TEST(tictac_drawBoard, positive)
 {
